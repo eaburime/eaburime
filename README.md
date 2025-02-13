@@ -7,7 +7,7 @@
 - 💡 **Tech skills**: Python, C++, Linux (SSH, Server Admin), AI/ML models, API integrations, Networking, Cloud Computing, DevOps, Arduino.  
 - ⚽ **Sports Tech**: Experience in **biomechanics, wearable sensor integration, and AI-driven performance analysis.**  
 - 💼 **Looking for roles in**: AI automation, cybersecurity, sports tech, blockchain, DevOps, and cloud engineering.  
-- 📫 **How to reach me**: [LinkedIn](your-linkedin-url) | [Email](your-email)  
+- 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/eaburime/) | [Email](Aburime.tech@gmail.com)  
 
 ### 🔥 Featured Projects  
 🔹 **NeuroArm: Muscle-Controlled Robotic Arm** - Biomechanics meets robotics with Arduino & C++.  
